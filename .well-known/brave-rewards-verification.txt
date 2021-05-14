@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: supradeep.me
-Token: a7fbc8b2008c80c530ba36a215427b13e3e8d3042bfb7946d5ccfde57e21abe0
